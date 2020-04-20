@@ -8,6 +8,7 @@ public class Todo {
 	private String description;
 	private Date targetDate;
 	private boolean isDone;
+	private String str;
 	
 	protected Todo() {}
 
